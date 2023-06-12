@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đăng Nhập</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="container-fluid m-0 p-0">
+        <!-- Main -->
+        <div class="background-image">
+            <div class="row pt-5 px-5 ">
+                <div class="col col-xs-12 col-md-12">
+                    <h2 class="text-center fw-bold">SIGN IN</h2>
+                    <div class="container" id="row-form">
+                        <form class="container p-5" ng-submit="onSubmit($event)">
+                            <p class="text-end"><a id="link" href="#dangky">Don’t have account? Press here</a></p>
+                            <div class="mb-3">
+                                <label id="text-form" for="exampleInputEmail1" class="form-label">Email address</label>
+                                <input type="email" class="form-control" id="exampleInputEmail1"
+                                    aria-describedby="emailHelp" ng-model="profile.emailAdress" required>
+                            </div>
+                            <div class="mb-3">
+                                <label id="text-form" for="exampleInputPassword1" class="form-label">Password</label>
+                                <input type="password" class="form-control" id="exampleInputPassword1" ng-model="profile.passWord" required>
+                            </div>
+                            <button id="submit" type="submit" class="btn btn-primary">Sign In</button>
+                            <p class="pt-4 text-center"><a href="#doimatkhau" id="link">I can’t remember my password</a></p>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

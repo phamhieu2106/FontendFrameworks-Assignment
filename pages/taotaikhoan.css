@@ -1,0 +1,48 @@
+.container-fluid{
+    padding: 0;
+}
+.background-image {
+    background-image: url("/Assignment-FontendFrameworks/img/windows-11-logo-colorful-background-digital-art-hd-wallpaper-uhdpaper.com-127@0@h.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 782px;
+}
+
+#head {
+    background-color: #171a21;
+}
+
+#back_head {
+    background-color: #171a21
+}
+
+#footer {
+    background-color: #171a21;
+}
+
+#back_footer {
+    background-color: #171a21
+}
+h2 {
+    color: #F8EDED;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#row-form {
+    background-color: #241717;
+}
+#link {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+#text-form {
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#link:hover {
+    text-decoration: underline;
+}

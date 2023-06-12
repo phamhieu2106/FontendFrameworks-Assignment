@@ -1,0 +1,22 @@
+
+
+h1 {
+    color: #FFFFFF;
+}
+
+#main-gioithieu {
+    padding-top: 200px;
+    background-color: #06234F;
+    padding-bottom: 100px;                                          
+}
+
+#p-gioithieu {
+    margin-top: 100px;
+    color: #FFFFFF;
+}
+
+#hr-gioithieu {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #FFFFFF;
+}

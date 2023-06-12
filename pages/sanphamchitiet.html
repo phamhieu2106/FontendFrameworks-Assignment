@@ -1,0 +1,26 @@
+<style>
+    .row{
+        background-color: #06234F; 
+    }
+</style>
+
+<div class="container-fluid p-0">
+        <div class="col col-xs-12 col md-12">
+            <div class="row">
+                <h1 class="text-center text-white fw-bold">GAME DETAILS</h1>
+                <div class="card" style="width: 18rem;">
+                    <img ng-src="{{sanpham.urlGame}}" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">{{sanpham.name}}</h5>
+                      <p class="card-text">{{sanpham.description}}</p>
+                      <h5 class="text-success fw-bold">50$</h5>
+                      <a href="#giohang" ng-click="buyNow(sanpham.id)" class="btn btn-primary">BUY NOW</a>
+                      <a  ng-click="addToCart(sanpham.id)" class="btn btn-primary mt-1">ADD TO YOUR CART</a>
+                    </div>
+                  </div>
+            </div>
+    </div>
+</div>
+
+
+

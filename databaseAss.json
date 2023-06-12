@@ -1,0 +1,400 @@
+{
+  "1": [
+    {
+      "id": 3,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/header_alt_assets_3.jpg?t=1684446457",
+      "name": "Call of Duty®: Modern Warfare® II",
+      "description": "Call of Duty®: Modern Warfare® II drops players into an unprecedented global conflict that features the return of the iconic Operators of Task Force 141.",
+      "price": "50$"
+    },
+    {
+      "id": 7,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/218620/header.jpg?t=1685520689",
+      "name": "PAYDAY 2",
+      "description": "PAYDAY 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original PAYDAY crew - Dallas, Hoxton, Wolf and Chains - as they descend on Washington DC for an epic crime spree.",
+      "price": "50$"
+    },
+    {
+      "id": 4,
+      "urlGame": "https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg?t=1683566799",
+      "name": "Counter-Strike: Global Offensive",
+      "description": "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago. CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).",
+      "price": "50$"
+    }
+  ],
+  "2": [
+    {
+      "id": 1,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg?t=1675178392",
+      "name": "The Witcher® 3: Wild Hunt",
+      "description": "You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will.Your current contract? Tracking down Ciri — the Child of Prophecy, a living weapon that can alter the shape of the world.",
+      "price": "50$"
+    },
+    {
+      "id": 6,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/header.jpg?t=1680647016",
+      "name": "Hogwarts Legacy",
+      "description": "Hogwarts Legacy is an immersive, open-world action RPG. Now you can take control of the action and be at the center of your own adventure in the wizarding world.",
+      "price": "50$"
+    },
+    {
+      "id": 9,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg?t=1684838697",
+      "name": "PUBG: BATTLEGROUNDS",
+      "description": "Play PUBG: BATTLEGROUNDS for free. Land on strategic locations, loot weapons and supplies, and survive to become the last team standing across various, diverse Battlegrounds. Squad up and join the Battlegrounds for the original Battle Royale experience that only PUBG: BATTLEGROUNDS ca",
+      "price": "50$"
+    },
+    {
+      "id": 10,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg?t=1671485009",
+      "name": "Red Dead Redemption 2",
+      "description": "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age. Also includes access to the shared living world of Red Dead Online.",
+      "price": "50$"
+    }
+  ],
+  "3": [
+    {
+      "id": 5,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/header.jpg?t=1683059745",
+      "name": "Forza Horizon 5",
+      "description": "Your Ultimate Horizon Adventure awaits! Explore the vibrant open world landscapes of Mexico with limitless, fun driving action in the world’s greatest cars. Conquer the rugged Sierra Nueva in the ultimate Horizon Rally experience. Requires Forza Horizon 5 game, expansion sold separately.",
+      "price": "50$"
+    },
+    {
+      "id": 11,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172620/header.jpg?t=1682374543",
+      "name": "Sea of Thieves 2023 Edition",
+      "description": "Celebrate five years since Sea of Thieves' launch with this special edition, including a copy of the game with all permanent content added since launch, plus a 10,000 gold bonus and a selection of Hunter cosmetics: the Hunter Cutlass, Pistol, Compass, Hat, Jacket and Sails.",
+      "price": "50$"
+    },
+    {
+      "id": 5,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/header.jpg?t=1683059745",
+      "name": "Forza Horizon 5",
+      "description": "Your Ultimate Horizon Adventure awaits! Explore the vibrant open world landscapes of Mexico with limitless, fun driving action in the world’s greatest cars. Conquer the rugged Sierra Nueva in the ultimate Horizon Rally experience. Requires Forza Horizon 5 game, expansion sold separately.",
+      "price": "50$"
+    }
+  ],
+  "4": [
+    {
+      "id": 2,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/414700/header.jpg?t=1618944453",
+      "name": "Outlast 2",
+      "description": "Outlast 2 introduces you to Sullivan Knoth and his followers, who left our wicked world behind to give birth to Temple Gate, a town, deep in the wilderness and hidden from civilization. Knoth and his flock are preparing for the tribulations of the end of times and you’re right in the thick of it.",
+      "price": "50$"
+    },
+    {
+      "id": 2,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/414700/header.jpg?t=1618944453",
+      "name": "Outlast 2",
+      "description": "Outlast 2 introduces you to Sullivan Knoth and his followers, who left our wicked world behind to give birth to Temple Gate, a town, deep in the wilderness and hidden from civilization. Knoth and his flock are preparing for the tribulations of the end of times and you’re right in the thick of it.",
+      "price": "50$"
+    },
+    {
+      "id": 2,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/414700/header.jpg?t=1618944453",
+      "name": "Outlast 2",
+      "description": "Outlast 2 introduces you to Sullivan Knoth and his followers, who left our wicked world behind to give birth to Temple Gate, a town, deep in the wilderness and hidden from civilization. Knoth and his flock are preparing for the tribulations of the end of times and you’re right in the thick of it.",
+      "price": "50$"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "id": 1,
+      "fullName": "Pham Van Hieu",
+      "emailAdress": "hieu@gmail.com",
+      "passWord": "123"
+    },
+    {
+      "id": 2,
+      "fullName": "admin",
+      "emailAdress": "admin@gmail.com",
+      "passWord": "admin"
+    },
+    {
+      "fullName": "New Pham Hieu",
+      "emailAdress": "newphamhieu@gmail.com",
+      "cemailAdress": "newphamhieu@gmail.com",
+      "passWord": "1",
+      "id": 3
+    },
+    {
+      "fullName": "Nguyen Van Teo",
+      "emailAdress": "teo@gmail.com",
+      "cemailAdress": "teo@gmail.com",
+      "passWord": "teo",
+      "id": 4
+    }
+  ],
+  "GameAdd": [
+    {
+      "id": 12,
+      "name": "NARAKA: BLADEPOINT",
+      "price": "50$",
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/1203220/header.jpg?t=1685534259",
+      "description": "NARAKA: BLADEPOINT is an up to 60-player PVP mythical action combat experience with martial arts inspired melee combat, gravity defying mobility, vast arsenals of melee & ranged weapons, legendary customizable heroes with epic abilities - inspired by the legends of the Far East.",
+      "category": "2"
+    },
+    {
+      "id": 13,
+      "name": "UNO",
+      "price": "50$",
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/470220/header.jpg?t=1680017426",
+      "description": "UNO makes its return with new exciting features! Match cards by color or value and play action cards to change things up. Race against others to empty your hand before everyone else in Classic play or customize your experience with House Rules.",
+      "category": "5"
+    },
+    {
+      "id": 14,
+      "urlGame": "https://cdn.akamai.steamstatic.com/steam/apps/1454400/header.jpg?t=1683221957",
+      "name": "Cookie Clicker",
+      "price": "50$",
+      "description": "An idle game about making cookies! Originally released in 2013 on the web, and actively developed since then. This is the official version for Steam.",
+      "category": "5"
+    },
+    {
+      "id": 15,
+      "urlGame": "https://cdn.akamai.steamstatic.com/steam/apps/641320/header.jpg?t=1685170269",
+      "name": "Cooking Simulator",
+      "price": "50$",
+      "description": "Play one of the best cooking games! Take control of a highly polished, realistic kitchen equipped with all kinds of utensils and stands. Unlock and master over 80 recipes or use dozens of lifelike ingredients to cook everything you like. A simulator spiced up with a dash of real-life physics!",
+      "category": "5"
+    },
+    {
+      "id": 16,
+      "urlGame": "https://cdn.akamai.steamstatic.com/steam/apps/1944430/header.jpg?t=1686140325",
+      "name": "Amnesia: The Bunker",
+      "price": "50$",
+      "description": "Amnesia: The Bunker is a first-person horror game set in a WW1 bunker. A relentless, AI-driven monster stalks you. Survival depends on finding tools, crafting items, and keeping the lights on.",
+      "category": "5"
+    },
+    {
+      "id": 17,
+      "urlGame": "https://cdn.akamai.steamstatic.com/steam/apps/1217060/header.jpg?t=1686212170",
+      "name": "Gunfire Reborn",
+      "price": "50$",
+      "description": "Gunfire Reborn is a level-based adventure game featuring FPS, Roguelite and RPG. Players can control heroes with various abilities to experience diverse Build gameplay, use various weapons to explore procedurally-generated levels. You can play the game alone, or join 4-player coop.",
+      "category": "6"
+    },
+    {
+      "id": 18,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/header.jpg?t=1667006028",
+      "name": "Hollow Knight",
+      "price": "50$",
+      "description": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style.",
+      "category": "7"
+    }
+  ],
+  "cart": [
+    {
+      "id": 4,
+      "urlGame": "https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg?t=1683566799",
+      "name": "Counter-Strike: Global Offensive",
+      "description": "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago. CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).",
+      "price": "50$",
+      "category": "1"
+    },
+    {
+      "id": 7,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/218620/header.jpg?t=1685520689",
+      "name": "PAYDAY 2",
+      "description": "PAYDAY 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original PAYDAY crew - Dallas, Hoxton, Wolf and Chains - as they descend on Washington DC for an epic crime spree.",
+      "price": "50$",
+      "category": "1"
+    }
+  ],
+  "gameAlreadyBuy": [],
+  "listGames": [
+    {
+      "id": 1,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg?t=1675178392",
+      "name": "The Witcher® 3: Wild Hunt",
+      "description": "You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will.Your current contract? Tracking down Ciri — the Child of Prophecy, a living weapon that can alter the shape of the world.",
+      "price": "50$",
+      "category": "2"
+    },
+    {
+      "id": 2,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/414700/header.jpg?t=1618944453",
+      "name": "Outlast 2",
+      "description": "Outlast 2 introduces you to Sullivan Knoth and his followers, who left our wicked world behind to give birth to Temple Gate, a town, deep in the wilderness and hidden from civilization. Knoth and his flock are preparing for the tribulations of the end of times and you’re right in the thick of it.",
+      "price": "50$",
+      "category": "2"
+    },
+    {
+      "id": 3,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/header_alt_assets_3.jpg?t=1684446457",
+      "name": "Call of Duty®: Modern Warfare® II",
+      "description": "Call of Duty®: Modern Warfare® II drops players into an unprecedented global conflict that features the return of the iconic Operators of Task Force 141.",
+      "price": "50$",
+      "category": "1"
+    },
+    {
+      "id": 4,
+      "urlGame": "https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg?t=1683566799",
+      "name": "Counter-Strike: Global Offensive",
+      "description": "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago. CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).",
+      "price": "50$",
+      "category": "1"
+    },
+    {
+      "id": 5,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/header.jpg?t=1683059745",
+      "name": "Forza Horizon 5",
+      "description": "Your Ultimate Horizon Adventure awaits! Explore the vibrant open world landscapes of Mexico with limitless, fun driving action in the world’s greatest cars. Conquer the rugged Sierra Nueva in the ultimate Horizon Rally experience. Requires Forza Horizon 5 game, expansion sold separately.",
+      "price": "50$",
+      "category": "3"
+    },
+    {
+      "id": 6,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/header.jpg?t=1680647016",
+      "name": "Hogwarts Legacy",
+      "description": "Hogwarts Legacy is an immersive, open-world action RPG. Now you can take control of the action and be at the center of your own adventure in the wizarding world.",
+      "price": "50$",
+      "category": "2"
+    },
+    {
+      "id": 7,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/218620/header.jpg?t=1685520689",
+      "name": "PAYDAY 2",
+      "description": "PAYDAY 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original PAYDAY crew - Dallas, Hoxton, Wolf and Chains - as they descend on Washington DC for an epic crime spree.",
+      "price": "50$",
+      "category": "1"
+    },
+    {
+      "id": 8,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/1922560/header.jpg?t=1652720468",
+      "name": "Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition",
+      "description": "Ready the Peashooters and prepare for the craziest, funniest shooter in the universe: Plants vs. Zombies Garden Warfare 2.",
+      "price": "50$",
+      "category": "4"
+    },
+    {
+      "id": 9,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg?t=1684838697",
+      "name": "PUBG: BATTLEGROUNDS",
+      "description": "Play PUBG: BATTLEGROUNDS for free. Land on strategic locations, loot weapons and supplies, and survive to become the last team standing across various, diverse Battlegrounds. Squad up and join the Battlegrounds for the original Battle Royale experience that only PUBG: BATTLEGROUNDS ca",
+      "price": "50$",
+      "category": "1"
+    },
+    {
+      "id": 10,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg?t=1671485009",
+      "name": "Red Dead Redemption 2",
+      "description": "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age. Also includes access to the shared living world of Red Dead Online.",
+      "price": "50$",
+      "category": "2"
+    },
+    {
+      "id": 11,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172620/header.jpg?t=1682374543",
+      "name": "Sea of Thieves 2023 Edition",
+      "description": "Celebrate five years since Sea of Thieves' launch with this special edition, including a copy of the game with all permanent content added since launch, plus a 10,000 gold bonus and a selection of Hunter cosmetics: the Hunter Cutlass, Pistol, Compass, Hat, Jacket and Sails.",
+      "price": "50$",
+      "category": "2"
+    },
+    {
+      "id": 12,
+      "url": "",
+      "name": "NARAKA: BLADEPOINT",
+      "price": "50$",
+      "desc": "",
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/1203220/header.jpg?t=1685534259",
+      "description": "NARAKA: BLADEPOINT is an up to 60-player PVP mythical action combat experience with martial arts inspired melee combat, gravity defying mobility, vast arsenals of melee & ranged weapons, legendary customizable heroes with epic abilities - inspired by the legends of the Far East.",
+      "category": "2"
+    },
+    {
+      "id": 13,
+      "url": "",
+      "name": "UNO",
+      "price": "50$",
+      "desc": "",
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/470220/header.jpg?t=1680017426",
+      "description": "UNO makes its return with new exciting features! Match cards by color or value and play action cards to change things up. Race against others to empty your hand before everyone else in Classic play or customize your experience with House Rules.",
+      "category": "5"
+    },
+    {
+      "id": 14,
+      "urlGame": "https://cdn.akamai.steamstatic.com/steam/apps/1454400/header.jpg?t=1683221957",
+      "name": "Cookie Clicker",
+      "price": "50$",
+      "description": "An idle game about making cookies! Originally released in 2013 on the web, and actively developed since then. This is the official version for Steam.",
+      "category": "5"
+    },
+    {
+      "id": 15,
+      "urlGame": "https://cdn.akamai.steamstatic.com/steam/apps/641320/header.jpg?t=1685170269",
+      "name": "Cooking Simulator",
+      "price": "50$",
+      "description": "Play one of the best cooking games! Take control of a highly polished, realistic kitchen equipped with all kinds of utensils and stands. Unlock and master over 80 recipes or use dozens of lifelike ingredients to cook everything you like. A simulator spiced up with a dash of real-life physics!",
+      "category": "5"
+    },
+    {
+      "id": 16,
+      "urlGame": "https://cdn.akamai.steamstatic.com/steam/apps/1944430/header.jpg?t=1686140325",
+      "name": "Amnesia: The Bunker",
+      "price": "50$",
+      "description": "Amnesia: The Bunker is a first-person horror game set in a WW1 bunker. A relentless, AI-driven monster stalks you. Survival depends on finding tools, crafting items, and keeping the lights on.",
+      "category": "5"
+    },
+    {
+      "id": 17,
+      "urlGame": "https://cdn.akamai.steamstatic.com/steam/apps/1217060/header.jpg?t=1686212170",
+      "name": "Gunfire Reborn",
+      "price": "50$",
+      "description": "Gunfire Reborn is a level-based adventure game featuring FPS, Roguelite and RPG. Players can control heroes with various abilities to experience diverse Build gameplay, use various weapons to explore procedurally-generated levels. You can play the game alone, or join 4-player coop.",
+      "category": "6"
+    },
+    {
+      "id": 18,
+      "urlGame": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/header.jpg?t=1667006028",
+      "name": "Hollow Knight",
+      "price": "50$",
+      "description": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style.",
+      "category": "7"
+    }
+  ],
+  "categoryGames": [
+    {
+      "id": 1,
+      "category": "Actions"
+    },
+    {
+      "id": 2,
+      "category": "Adventures"
+    },
+    {
+      "id": 3,
+      "category": "Racings"
+    },
+    {
+      "id": 4,
+      "category": "Horrors"
+    },
+    {
+      "id": 5,
+      "category": "Cooking"
+    },
+    {
+      "category": "RPG",
+      "id": 6
+    },
+    {
+      "category": "Indie",
+      "id": 7
+    }
+  ]
+}

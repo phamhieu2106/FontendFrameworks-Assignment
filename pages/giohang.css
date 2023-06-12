@@ -1,0 +1,30 @@
+#head {
+    background-color: #171a21;
+}
+
+#back_head {
+    background-color: #171a21
+}
+
+#footer {
+    background-color: #171a21;
+}
+
+#back_footer {
+    background-color: #171a21
+}
+h2 {
+    padding-top: 40px;
+    color: #FFFFFF;
+    margin-bottom: 50px;
+}
+
+#main {
+    padding-top: 100px;
+    background-color: #06234F;
+    padding-bottom: 500px;
+}
+
+#Purchase:hover{
+    text-decoration: underline;
+}
